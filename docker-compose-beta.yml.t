@@ -1,5 +1,5 @@
 signup:
-  image: dstroppa/flask-signup-beta:v_BUILD_NUMBER
+  image: gokul711/test-beta:v_BUILD_NUMBER
   ports:
     - "80:5000"
   environment:
